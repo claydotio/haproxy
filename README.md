@@ -1,3 +1,5 @@
+watches config at `/etc/haproxy/haproxy.cfg`
+
 ```
 docker run
     --restart always
